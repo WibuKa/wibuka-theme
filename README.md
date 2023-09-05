@@ -1,9 +1,8 @@
 
-#Hướng dẫn tải 
+# Hướng dẫn tải 
 
 tải nó về ở dạng file .ZIP
 ![image](https://github.com/WibuKa/wibuka-theme/assets/140942718/69ecd2ee-9306-4d01-9a01-17eb1533b53d)
-
 # Hướng dẫn cài đặt:
 1. mở aseprite :)))
 2. ấn ctrl + K chọn Extensions 
