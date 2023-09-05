@@ -1,10 +1,8 @@
-![image](https://github.com/WibuKa/wibuka-theme/assets/140942718/69ecd2ee-9306-4d01-9a01-17eb1533b53d)# wibuka-theme
+# wibuka-theme
 
 Hướng dẫn tải:
 tải nó về ở dạng file .ZIP
-
-https://media.discordapp.net/attachments/1090639617667108960/1148722949969412126/image.png
-
+![image](https://github.com/WibuKa/wibuka-theme/assets/140942718/69ecd2ee-9306-4d01-9a01-17eb1533b53d)
 
 Hướng dẫn cài đặt:
 1 : mở aseprite :)))
