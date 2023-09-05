@@ -8,7 +8,7 @@ tải nó về ở dạng file .ZIP
 1. mở aseprite :)))
 2. ấn ctrl + K chọn Extensions 
 3. click vào Add Extension
-4. tìm đến thư mục có file ZIP mới tải về op
+4. tìm đến thư mục có file ZIP mới tải về
 5. chọn nó rồi bấm open
 6. bấm ok
 7. ấn ctrl + K chọn Theme 
