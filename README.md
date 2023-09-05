@@ -13,4 +13,16 @@ tải nó về ở dạng file .ZIP
 6. bấm ok
 7. ấn ctrl + K chọn Theme 
 8. chọn theme có trong danh sách
-9. xong! 
+9. xong!
+
+# Activating theme
+1. Open Aseprite
+1. Navigate to Edit ⇒ Preferences... ⇒ Extensions
+1. Click Add Extension
+1. Navigate to the downloaded extension .zip file
+1.S elect it
+1. Click OK
+1. Navigate to Edit ⇒ Preferences... ⇒ Theme
+1. Select the theme from the list
+1. Click Select
+1. Theme will be applied immediately
